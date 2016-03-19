@@ -1,8 +1,16 @@
 #board {
   margin-top: 10px;
 }
-
 .box {
-  border: 1px solid black;
-  height: 150px;
+  border: 0px solid black;
+  height: 200px;
+}
+.btn{
+  height: 200px;
+  padding: 2px;
+  font-size: 130px;
+  border: 2px solid black;
+}
+div{
+  font-size: 40px;
 }
