@@ -7,9 +7,11 @@
 }
 .btn{
   height: 200px;
+  /*width: 200px;*/
   padding: 2px;
   font-size: 130px;
   border: 2px solid black;
+  font-family: 'Rock Salt' cursive;
 }
 div{
   font-size: 40px;
