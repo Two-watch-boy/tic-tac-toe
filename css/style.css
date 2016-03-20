@@ -5,13 +5,19 @@
   border: 0px solid black;
   height: 200px;
 }
-.btn{
+.game{
   height: 200px;
   /*width: 200px;*/
   padding: 2px;
   font-size: 130px;
   border: 2px solid black;
   font-family: 'Rock Salt' cursive;
+}
+.reset{
+  height: 40px;
+  font-size: 20px;
+  padding-bottom: 10px;
+  margin-top: 15px;
 }
 div{
   font-size: 40px;
