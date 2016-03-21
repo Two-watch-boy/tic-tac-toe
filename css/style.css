@@ -8,10 +8,9 @@
 .game{
   height: 200px;
   /*width: 200px;*/
-  padding: 2px;
-  font-size: 130px;
+  font-size: 120px;
   border: 2px solid black;
-  font-family: 'Rock Salt' cursive;
+  font-family: 'Rock Salt', cursive;
 }
 .reset{
   height: 40px;
